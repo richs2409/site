@@ -1,15 +1,23 @@
-Main index uploaded to google and included in robots.tx file
+Main index included in robots.txt file as:
 
 https://richs2409.github.io/site_od/sitemapindex.xml
 
-Webflow self updating (on publish) main sitemap:
+Cannot use self updating Webflow main index as custom sitemap must point at the hosted index, so we must periodically create (I used https://pro-sitemaps.com/site/4375535/) and host getourdata.com sitemap at:
 
-https://www.getourdata.com/sitemap.xml
+https://richs2409.github.io/site_od/sitemap_4375535.xml
+
+Index loaded to google remains https://getourdata.com/sitemap.xml but this uses the new sitemapindex pasted into Webflow under SEO
+
+Other sitemaps are referenced from sitemapindex as follows:
 
 Gleap self updating help center sitemap:
 
 https://help.getourdata.com/sitemap.xml
 
-Other static files hosted at:
+Swish.ink self updating blog sitemap at:
 
-https://richs2409.github.io/site_od/
+https://blog.getourdata.com/sitemap.xml
+
+Other static files hosted as needed at:
+
+https://richs2409.github.io/site_od/XXX
