@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom">
+<channel>
+	<title>My Feed at https://www.getourdata.com/</title>
+	<link>https://www.getourdata.com/</link>
+	<description>My Feed at https://www.getourdata.com/</description>
+	<lastBuildDate>Mon, 19 Jun 2023 05:21:12 +0000</lastBuildDate>
+	<pubDate>Mon, 19 Jun 2023 05:21:12 +0000</pubDate>
+	<generator>https://www.xml-sitemaps.com/</generator>
+	<atom:link href="https://a316269.sitemaphosting6.com/4375535/feed_rss.xml" rel="self" type="application/rss+xml" />
+
+<item>
+	<title>GetOurData | Read Any API Like A Database</title> 
+	<link>https://www.getourdata.com/</link> 
+	<description>Ever been frustrated that it is so difficult to report on data that lives in SaaS software products or behind an API. BI tools are useless at connecting to APIs. GetOurData solves all this. It handles the many API authentication and pagination methods to connect and extract all your data from any API end point. It automatically parses the JSON API response and turns it into rows, columns, tables and table relationships and delivers it to you in an analytics-ready database format. Connect your BI tool of choice and visualize to your heart&#x27;s content!</description>
+	<pubDate>Mon, 19 Jun 2023 04:25:11 +0000</pubDate>
+	<guid isPermaLink="false">a31f09d59cf40ebc359abc7b0607352f</guid>
+</item>
+<item>
+	<title>Get your data from DATEV</title> 
+	<link>https://www.getourdata.com/data-source/datev</link> 
+	<description>Get your data from DATEV</description>
+	<pubDate>Mon, 19 Jun 2023 04:25:11 +0000</pubDate>
+	<guid isPermaLink="false">0b9f49f8774d6d6f30788dc5eff25fb8</guid>
+</item>
+<item>
+	<title>Get your data from Zenefits</title> 
+	<link>https://www.getourdata.com/data-source/zenefits</link> 
+	<description>Get your data from Zenefits</description>
+	<pubDate>Mon, 19 Jun 2023 04:25:11 +0000</pubDate>
+	<guid isPermaLink="false">f16631cfad67cf5dd863317243a07a77</guid>
+</item>
+</channel>
+</rss>
