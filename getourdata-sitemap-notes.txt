@@ -1,0 +1,15 @@
+Main index uploaded to google and included in robots.tx file
+
+https://richs2409.github.io/site_od/sitemapindex.xml
+
+Webflow self updating (on publish) main sitemap:
+
+https://www.getourdata.com/sitemap.xml
+
+Gleap self updating help center sitemap:
+
+https://help.getourdata.com/sitemap.xml
+
+Other static files hosted at:
+
+https://richs2409.github.io/site_od/
