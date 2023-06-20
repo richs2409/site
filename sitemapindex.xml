@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <sitemap>
-      <loc>https://getourdata.com/sitemap.xml</loc>
+      <loc>https://richs2409.github.io/site/sitemap_4375535.xml</loc>
    </sitemap>
    <sitemap>
-      <loc>https://blog.getourdata.com/sitemap.xml</loc>
+      <loc>https://richs2409.github.io/site/sitemap_4375535_video.xml</loc>
    </sitemap>
    <sitemap>
-      <loc>https://help.getourdata.com/sitemap.xml</loc>
+      <loc>https://richs2409.github.io/site/sitemap_4375535_news.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://richs2409.github.io/site/sitemap_4375535_images.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://richs2409.github.io/site/feed_rss.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://richs2409.github.io/site/help-getourdata-sitemap.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://richs2409.github.io/site/blog-getourdata-sitemap.xml</loc>
    </sitemap>
 </sitemapindex>
